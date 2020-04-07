@@ -36,7 +36,6 @@
 @font-face {
   font-family: 'Copernicus-Book';
   src: url('assets/fonts/Copernicus-Book.woff');
-  src: url('assets/fonts/Copernicus-Book.woff#iefix') format('embedded-opentype'), url('assets/fonts/PCopernicus-Book.woff2') format('woff2'), url('assets/fonts/Copernicus-Book.woff') format('woff'), url('assets/fonts/Copernicus-Book.woff') format('ttf');
   font-weight: normal;
   font-style: normal;
 }
